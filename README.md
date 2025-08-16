@@ -41,8 +41,8 @@ It includes a JavaScript-powered countdown timer, a YouTube-style placeholder, a
 
 🖼️ Project Preview
 
-![Landing Page Screenshot](landing-page.png)  
-![Client Feedback](client-review.png)  
+![Landing Page Screenshot](landing-page.PNG)  
+![Client Feedback](client-review.PNG)  
 
 ---
 
