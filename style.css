@@ -97,7 +97,7 @@ body {
     }
     .back-image{
 
-  background-image: url('/depositphotos_140929528-stock-photo-architecture-details-cement-wall-texture.jpg');
+  background-image: url('depositphotos_140929528-stock-photo-architecture-details-cement-wall-texture.jpg');
   background-repeat: no-repeat;
   background-position: top center;
   background-size:cover;
@@ -424,5 +424,6 @@ body {
     text-align: center;
   }
 }
+
 
     
